@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Sign-in Udacity</title>
+	<link rel="stylesheet" href="main.css">
+
+</head>
+<body>
+	<div class="main_form">
+	<form method="post" onsubmit="return email_validated() && phone_validated()">
+    <p>
+        <label for="a">User Name</label>
+        <input id="user_name" type="text">
+    </p>
+    
+    <p>
+        <label for="b">Address</label>
+        <input id="user_address" type="text">
+    </p>
+	
+    <p>
+    	<label for="c">Phone Number</label>
+    	<input id="user_phone">
+    </p>
+    <p id="error_phone"></p>
+
+    <p>
+    	<label for="d">Email</label>
+    	<input id="user_email">
+    </p>
+    <p id="error_email"></p>
+
+    <input type="submit" value="Submit">
+</form>
+</div>
+</body>
+<script type="text/javascript" src="validate.js"></script>
+</html>
