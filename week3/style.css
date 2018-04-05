@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+
+body{
+    text-align: center;
+    margin: auto;
+    height:100%;
+    width:100%;
+    font-family: "Roboto Slab", sans serif;
+}
+
+#home-area, #play-area {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+h1, p {
+    font-weight: bold;
+    color: black;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    width: 30%;
+    color: black;
+    font-weight: bold;
+    font-size: 26px;
+    padding: 4px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+select, input {
+    width: 40%;
+    height: 24px;
+    border: #568fd2 solid 2px;
+    border-radius: 4px;
+    padding-left: 4px;
+    margin-bottom: 8px;
+    background-color: white;
+    font-size: 20px;
+}
+
+#imgGIF {
+    margin: auto;
+    width: 70%;
+    height: auto;
+    display: none;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+
+
+#play-area {
+    display: none;
+}
