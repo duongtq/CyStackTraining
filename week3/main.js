@@ -10,7 +10,7 @@ const $btnGo = document.getElementById('btnGo');
 const $btnBack = document.getElementById('btnBack');
 const $imgGIF = document.getElementById('imgGIF');
 
-const apiKey = 'TDRCTI3YEJhUl5N7sIuaNFT2e8aca0OH';
+const apiKey = 'LrZV4IQiJJZsLy3umeCDvlZadMoes6O9';
 let audio = new Audio();
 
 /*
