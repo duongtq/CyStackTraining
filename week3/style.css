@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    height:100%;
+    width:100%;
+    font-family: "Roboto Slab", sans serif;
+}
+
+h1, p {
+    font-weight: bold;
+    color: #568fd2;
+}
+
+p {
+    font-size: 24px;
+}
+
+select, input {
+    width: 50%;
+    height: 30px;
+    border: 1px solid black;
+    padding-left: 4px;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+button {
+    width: 30%;
+    color: black;
+    font-weight: bold;
+    font-size: 26px;
+    padding: 4px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+
+
+#play-area {
+    display: none;
+}
+
+#imgGIF {
+    margin: auto;
+    width: 70%;
+    height: auto;
+    display: none;
+}
+
+.music-area, .theme-area
+{
+    margin-top: 40px;
+}
