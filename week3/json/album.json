@@ -1,0 +1,57 @@
+{
+  "albums": [
+    {
+      "id": "0",
+      "name": "Despacito",
+      "url": "http://dl.music-online.ir/Latin/Luis%20Fonsi%20-%20Despacito%20ft.%20Daddy%20Yankee.mp3.mp3"
+    },
+
+    {
+      "id": "1",
+      "name": "Friends - Justin Bieber",
+      "url": "http://dl.music-online.ir/Latin/Justin%20Bieber%20-%20Friends.mp3"
+    },
+
+     {
+      "id": "2",
+      "name": "Shape of you - Ed Sheeran",
+      "url": "http://dl.music-online.ir/Latin/Ed-Sheeran-Shape-Of-You.mp3"
+    },
+
+     {
+      "id": "3",
+      "name": "We don't talk anymore - CharliePuth Ft. Selena Gomez",
+      "url": "http://dl.music-online.ir/Latin/Charlie-Puth-Ft.-Selena-Gomez-We-Dont-Talk-Anymore.mp3"
+    },
+
+    {
+      "id": "4",
+      "name": "In the end - Linkin Park",
+      "url": "http://dl.music-online.ir/Latin/Linkinpark/Linkinpark%20-%20In%20The%20End.mp3"
+    },
+
+    {
+      "id": "5",
+      "name": "Grenade - Bruno Mars",
+      "url": "http://dl.music-online.ir/Latin/Bruno-Mars-Grenade.mp3"
+    },
+
+    {
+      "id": "6",
+      "name": "Perfect - One Direction",
+      "url": "http://dl.music-online.ir/Latin/One%20Direction%20-%20Perfect.mp3"
+    },
+
+    {
+      "id": "7",
+      "name": "What do you mean (REMIX) - Justin Bieber",
+      "url": "http://dl.music-online.ir/Latin/Justin-Bieber-What-Do-You-Mean-REMIX.mp3"
+    },
+
+    {
+      "id": "8",
+      "name": "Yeah! - Usher",
+      "url": "http://dl.music-online.ir/Latin/Usher/Usher%20-%20Yeah%21%20ft.%20Lil%20Jon%2C%20Ludacris.mp3"
+    }
+  ]
+}
