@@ -77,7 +77,8 @@ fetch('./json/album.json')
                 requestGIPHYPromise.then((jsonResponse) => {
                     let urlImage = jsonResponse.data.image_url;
                     $imgGIF.src = urlImage;
-
+                    $body.style.backgroundImage = 'none';
+                    
                     $imgGIF.style.display = 'block';
                     audio.src = urlAudio;
                     audio.play();
