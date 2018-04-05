@@ -7,10 +7,11 @@ const $btnGo       = document.getElementById('btnGo');
 const $btnBack     = document.getElementById('btnBack');
 const $imgGIF      = document.getElementById('imgGIF');
 
+// Set API Key
 const apiKey = 'LrZV4IQiJJZsLy3umeCDvlZadMoes6O9';
 let audio = new Audio();
 
-
+// Append json name into list
 function apppendCombobox(list)
 {
     for (let i = 0; i < list.length; i++) {
@@ -24,7 +25,7 @@ function apppendCombobox(list)
 function validateWord(element)
 {
     let string = element.value;
-    string = string.replace(/\s/g, '');   /* Remove space from string */
+    string = string.replace(/\s/g, '');
     if (string === "")
     {
         return false;
@@ -53,7 +54,7 @@ fetch('./json/album.json')
         $btnGo.addEventListener('click', function () {
 
             if (!validateWord($tagText)) {
-                alert('Hãy nhập 1 từ khóa để cho sinh động :))');
+                alert('Input should not be empty, bro!');
                 return;
             }
 
@@ -79,10 +80,8 @@ fetch('./json/album.json')
                     audio.play();
                 });
             }
-
         });
-
-        
+    
         $btnBack.addEventListener('click', function () {
             audio.pause();
             audio.currentTime = 0;
@@ -92,6 +91,5 @@ fetch('./json/album.json')
             $tagText.value = "";
             $playArea.style.display = 'none';
             $homeArea.style.display = 'block';
-
         });
     });
