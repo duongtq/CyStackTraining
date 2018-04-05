@@ -105,7 +105,7 @@ fetch('./json/album.json')
             $imgGIF.src = '';
             $imgGIF.style.display = 'none';
 
-            $body.style.backgroundImage = "url('./images/home-background.jpg')";
+         
             $tagText.value = "";
             $playArea.style.display = 'none';
             $homeArea.style.display = 'block';
