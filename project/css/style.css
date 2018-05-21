@@ -1,0 +1,60 @@
+.main {
+	text-align: center;
+	margin-top: 17.1875%;
+}
+
+}
+.header {
+	max-height: 991.98px;
+	margin: auto;
+
+}
+
+.footer {
+	margin: auto;
+}
+
+.content {
+	margin-top: 552px;
+}
+
+.col-lg-4 {
+	line-height: 24px;
+}
+
+
+
+button {
+	width: 10em;
+	height: 3em;
+	margin: auto;
+	display: block;
+}
+
+#logo {
+	padding-left: 13.28%;
+}
+
+#intro-1 {
+	margin-bottom: 30px;
+}
+
+#intro-para {
+	margin-bottom: 30px;
+}
+
+#header_of_content {
+	margin-bottom: 140px;
+}
+#encouragement {
+	margin-top: 140px;
+}
+
+#platform, #pentest, #pricing, #blog, #company {
+	border: none;
+	background: none;
+}
+
+
+
+
