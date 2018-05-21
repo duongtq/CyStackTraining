@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="329px" height="125px" viewBox="0 0 329 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>scanning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.340833028 0.115600816 29.6179271 0.115600816 29.6179271 32.6122449 0.340833028 32.6122449"></polygon>
+    </defs>
+    <g id="Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1452.000000, -2385.000000)">
+        <g id="scanning" transform="translate(1452.000000, 2380.000000)">
+            <text id="01010000" fill="#9CA6AF" font-family="MyanmarMN, Myanmar MN" font-size="22" font-weight="normal">
+                <tspan x="90" y="21">01010000</tspan>
+            </text>
+            <text id="101000010100001000" fill="#9CA6AF" font-family="MyanmarMN, Myanmar MN" font-size="22" font-weight="normal">
+                <tspan x="63" y="43">101000010100001000</tspan>
+            </text>
+            <text id="010100001010000100010" fill="#9CA6AF" font-family="MyanmarMN, Myanmar MN" font-size="22" font-weight="normal">
+                <tspan x="63" y="66">010100001010000100010</tspan>
+            </text>
+            <text id="010100001010000100010000" fill="#9CA6AF" font-family="MyanmarMN, Myanmar MN" font-size="22" font-weight="normal">
+                <tspan x="0" y="112">010100001010000100010000</tspan>
+            </text>
+            <text id="10000101001000110" fill="#9CA6AF" font-family="MyanmarMN, Myanmar MN" font-size="22" font-weight="normal">
+                <tspan x="32" y="89">10000101001000110</tspan>
+            </text>
+            <g id="Page-1" transform="translate(127.000000, 36.000000)">
+                <polygon id="Fill-1" fill="#58595B" points="51 61.6891554 56.0382721 68 62 63.1569215 57.2669661 57"></polygon>
+                <g id="Group-9">
+                    <g id="Group-4" transform="translate(53.302752, 61.004082)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="M0.340833028,8.4428498 L19.1734569,31.2794784 C20.4717596,32.8540743 22.7930945,33.06356 24.3483927,31.7471763 L28.3103101,28.3931029 C29.8324844,27.105111 30.0574982,24.8287763 28.8178284,23.2630049 L10.4938651,0.115600816 L0.340833028,8.4428498 Z" id="Fill-2" fill="#232323" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M33.4094798,58.5104727 C19.9235028,58.5104727 8.99110826,47.4936727 8.99110826,33.9035747 C8.99110826,20.3134767 19.9235028,9.29667673 33.4094798,9.29667673 C46.8954569,9.29667673 57.8278514,20.3134767 57.8278514,33.9035747 C57.8278514,47.4936727 46.8954569,58.5104727 33.4094798,58.5104727 M33.4094798,0.236227755 C14.9579706,0.236227755 7.6146789e-05,15.3096073 7.6146789e-05,33.9035747 C7.6146789e-05,52.497542 14.9579706,67.5709216 33.4094798,67.5709216 C51.860989,67.5709216 66.8188835,52.497542 66.8188835,33.9035747 C66.8188835,15.3096073 51.860989,0.236227755 33.4094798,0.236227755" id="Fill-5" fill="#232323"></path>
+                    <path d="M56.3506417,33.9036131 C56.3506417,46.6714988 46.0795821,57.021858 33.4095179,57.021858 C20.7394537,57.021858 10.468394,46.6714988 10.468394,33.9036131 C10.468394,21.1357273 20.7394537,10.7853682 33.4095179,10.7853682 C46.0795821,10.7853682 56.3506417,21.1357273 56.3506417,33.9036131" id="Fill-7" fill="#5EAEF7" opacity="0.2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
